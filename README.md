@@ -1,5 +1,7 @@
 # 👋 Hi~~! I'm David Lee.
 
+Go to my [Notion Web Page](https://glen-fine-bbc.notion.site/ee218986177a410790390ae75592d210).
+
 | Category | Skills |
 | :---: | --- |
 | Cloud  | ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)   |
