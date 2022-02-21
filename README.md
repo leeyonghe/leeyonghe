@@ -1,6 +1,6 @@
 # 👋 Hi~~! I'm David Lee.
 
-##### With over 18 years working in Korea IT fields, from bank billing solution to mobile application development, I have a big passion for creating quality software using state-of-the-art technologies. I embrace good methodologies and code simplicity for robustness results. Self-development and curiosity for new things always put me on the competitive edge. Striking for balancing between communication and technical skills, I always work effectively in varieties of a working environment. I am a full-stack developer. 
+### With over 18 years working in Korea IT fields, from bank billing solution to mobile application development, I have a big passion for creating quality software using state-of-the-art technologies. I embrace good methodologies and code simplicity for robustness results. Self-development and curiosity for new things always put me on the competitive edge. Striking for balancing between communication and technical skills, I always work effectively in varieties of a working environment. I am a full-stack developer. 
 
 
 | Category | Skills |
