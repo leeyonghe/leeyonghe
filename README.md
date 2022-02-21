@@ -1,4 +1,4 @@
-# 👋 안녕하세요!! David Lee 입니다.
+# 👋 Hi~~! I'm David Lee.
 
 | Category | Skills |
 | :---: | --- |
