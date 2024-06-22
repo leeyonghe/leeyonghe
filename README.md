@@ -2,6 +2,11 @@
 
 I have been working as a developer for the past 19 years. Throughout my career, I have gained extensive experience and expertise in various aspects of software development. One of the key strengths I bring to the table is my deep understanding of different programming languages and technologies. I have worked on projects using languages such as Java, C++, and Python, and have experience with frameworks such as React and Node.js. This diverse skill set enables me to adapt quickly to new technologies and solve complex problems efficiently. In addition to my technical skills, I am a highly analytical and detail-oriented individual. I have a strong ability to analyze requirements, design robust solutions, and write clean and maintainable code. I take pride in my ability to deliver high-quality software that meets the needs of users and exceeds expectations. Throughout my career, I have had the opportunity to work in various challenging projects, both individually and as part of a team. This has sharpened my collaboration and communication skills, allowing me to effectively collaborate with cross-functional teams and stakeholders. I thrive in fast-paced environments and have a proven track record of meeting tight deadlines while maintaining the highest standards of quality. I am a lifelong learner and continuously stay updated with the latest industry trends and advancements. I believe in the importance of staying curious and exploring new technologies to stay at the forefront of the ever-evolving field of software development.
 
+### Others
+| Brand | Skills |
+| :---: | --- |
+| Siemens | PLC S7-1500 |
+| Mendix | <img src="./mendix.png" style="width:70%"/> |
 ### Languages and Skills
 
 | Category | Skills |
