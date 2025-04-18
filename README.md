@@ -6,6 +6,11 @@ Participation in Hyundai Motor Group Developer Conference (Pleos)
 현대자동차 개발자 컨퍼런스(Pleos) 참가  
 - [Hyundai Motor Group DevCon](https://devcon.hyundaimotorgroup.com/2025)
 
+<img src="./screenshot/screenshot03.jpeg" style="width:30%"/>
+<img src="./screenshot/screenshot02.jpeg" style="width:30%"/>
+<img src="./screenshot/screenshot01.jpeg" style="width:20%"/>
+
+
 ---
 
 ### 소개 (About Me)
@@ -84,4 +89,4 @@ I believe in the importance of staying curious and exploring new technologies to
 | **Brand** | **Skills** |  
 | :---: | --- |  
 | **Siemens** | PLC S7-1500 |  
-| **Mendix** | <img src="./mendix.png" style="width:70%"/> |
+| **Mendix** | <img src="./screenshot/mendix.png" style="width:70%"/> |
