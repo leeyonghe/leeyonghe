@@ -20,15 +20,11 @@ Participation in Hyundai Motor Group Developer Conference (Pleos)
 
 ### 소개 (About Me)
 
-```text
 I have been working as a developer for the past 19 years.  
 저는 지난 19년 동안 개발자로 일해왔습니다.  
-```
 
-```text
 One of the key strengths I bring to the table is my deep understanding of different programming languages and technologies.  
 제가 가진 주요 강점 중 하나는 다양한 프로그래밍 언어와 기술에 대한 깊은 이해입니다.  
-```
 
 I have worked on projects using languages such as Java, C++, and Python, and have experience with frameworks such as React and Node.js.  
 저는 Java, C++, Python과 같은 언어를 사용한 프로젝트를 진행했으며, React와 Node.js와 같은 프레임워크 경험도 보유하고 있습니다.  
