@@ -26,8 +26,8 @@ I have been working as a developer for the past 19 years.
 One of the key strengths I bring to the table is my deep understanding of different programming languages and technologies.  
 제가 가진 주요 강점 중 하나는 다양한 프로그래밍 언어와 기술에 대한 깊은 이해입니다.  
 
-I have worked on projects using languages such as Java, C++, and Python, and have experience with frameworks such as React and Node.js.  
-저는 Java, C++, Python과 같은 언어를 사용한 프로젝트를 진행했으며, React와 Node.js와 같은 프레임워크 경험도 보유하고 있습니다.  
+I have worked on projects using languages such as Java, C++, and Python, and have experience with frameworks such as React.js and Next.js
+저는 Java, C++, Python과 같은 언어를 사용한 프로젝트를 진행했으며, React.js와 Next.js와 같은 프레임워크 경험도 보유하고 있습니다.  
 
 This diverse skill set enables me to adapt quickly to new technologies and solve complex problems efficiently.  
 이러한 다양한 기술 스택은 제가 새로운 기술에 빠르게 적응하고 복잡한 문제를 효율적으로 해결할 수 있게 합니다.  
