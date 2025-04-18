@@ -1,6 +1,6 @@
 # 👋 Hi~~! I'm David Lee.
 
-### 최근소식
+### 최근소식 (Recent News)
 
 Participation in Hyundai Motor Group Developer Conference (Pleos)  
 - 현대자동차 개발자 컨퍼런스(Pleos) 참가  
