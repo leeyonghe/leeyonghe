@@ -3,8 +3,11 @@
 ### 최근소식
 
 Participation in Hyundai Motor Group Developer Conference (Pleos)  
-현대자동차 개발자 컨퍼런스(Pleos) 참가  
-- [Hyundai Motor Group DevCon](https://devcon.hyundaimotorgroup.com/2025)
+- 현대자동차 개발자 컨퍼런스(Pleos) 참가  
+    - [Hyundai Motor Group DevCon](https://devcon.hyundaimotorgroup.com/2025)
+- 전시내용
+    - BLE Game Controller (Unity)
+    - AAOS Game 개발 및 연동 (Unity)
 
 <div>
 <img src="./screenshot/screenshot03.jpeg" style="width:30%"/>
