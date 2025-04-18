@@ -3,19 +3,22 @@
 ### 최근소식
 
 Participation in Hyundai Motor Group Developer Conference (Pleos)  
-현대자동차 개발자 컨퍼런스(Pleos) 참가
-- https://devcon.hyundaimotorgroup.com/2025
+현대자동차 개발자 컨퍼런스(Pleos) 참가  
+- [Hyundai Motor Group DevCon](https://devcon.hyundaimotorgroup.com/2025)
 
-
-
+---
 
 ### 소개 (About Me)
 
-I have been working as a developer for the past 19 years. Throughout my career, I have gained extensive experience and expertise in various aspects of software development.  
-저는 지난 19년 동안 개발자로 일해왔습니다. 경력 동안 소프트웨어 개발의 다양한 측면에서 광범위한 경험과 전문성을 쌓았습니다.  
+```text
+I have been working as a developer for the past 19 years.  
+저는 지난 19년 동안 개발자로 일해왔습니다.  
+```
 
+```text
 One of the key strengths I bring to the table is my deep understanding of different programming languages and technologies.  
 제가 가진 주요 강점 중 하나는 다양한 프로그래밍 언어와 기술에 대한 깊은 이해입니다.  
+```
 
 I have worked on projects using languages such as Java, C++, and Python, and have experience with frameworks such as React and Node.js.  
 저는 Java, C++, Python과 같은 언어를 사용한 프로젝트를 진행했으며, React와 Node.js와 같은 프레임워크 경험도 보유하고 있습니다.  
@@ -47,13 +50,15 @@ I am a lifelong learner and continuously stay updated with the latest industry t
 I believe in the importance of staying curious and exploring new technologies to stay at the forefront of the ever-evolving field of software development.  
 저는 호기심을 유지하고 새로운 기술을 탐구하는 것이 끊임없이 변화하는 소프트웨어 개발 분야에서 앞서 나가는 데 중요하다고 믿습니다.  
 
+---
+
 ### Languages and Skills
 
-| Category | Skills |  
+| **Category** | **Skills** |  
 | :---: | --- |  
-| Cloud  | ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)   |  
-| AI  | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF3F06?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)   |  
-| DevOps | ![kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) |  
+| **Cloud**  | ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)   |  
+| **AI**  | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF3F06?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)   |  
+| **DevOps** | ![kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) |  
 |  WAS |  ![SpringBoot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot) ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white) |  
 | CI/CD | ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) |  
 | DB  |  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=MSSQL&logoColor=white") |  
@@ -72,9 +77,11 @@ I believe in the importance of staying curious and exploring new technologies to
 | GIT | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) |  
 | Other Tool | ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) |  
 
+---
+
 ### Others
 
-| Brand | Skills |  
+| **Brand** | **Skills** |  
 | :---: | --- |  
-| Siemens | PLC S7-1500 |  
-| Mendix | <img src="./mendix.png" style="width:70%"/> |  
+| **Siemens** | PLC S7-1500 |  
+| **Mendix** | <img src="./mendix.png" style="width:70%"/> |
