@@ -8,6 +8,7 @@ Participation in Hyundai Motor Group Developer Conference (Pleos)
 - 전시내용
     - BLE Game Controller (Unity)
     - AAOS Game 개발 및 연동 (Unity)
+    - Spring Boot (Kotlin) 통신
 
 <div>
 <img src="./screenshot/screenshot03.jpeg" style="width:30%"/>
