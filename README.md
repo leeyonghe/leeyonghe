@@ -5,7 +5,6 @@
 - [주요 플랫폼 개발 소개 (Platform Development Overview)](#주요-플랫폼-개발-소개-platform-development-overview)
 - [Languages and Skills](#languages-and-skills)
 - [Projects and Achievements](#projects-and-achievements)
-- [Certifications](#certifications)
 - [Others](#others)
 
 ### 최근소식 (Recent News)
