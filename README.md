@@ -145,6 +145,42 @@ I believe in the importance of staying curious and exploring new technologies to
     - 기술 스택: Next.js, TypeScript, Node.js, MongoDB, AWS
     - 주요 성과: 전환율 35% 향상, 평균 주문 금액 25% 증가
 
+- AI 기반 한국어 형태소 분석 시스템 (AI-powered Korean Morphological Analysis System)
+    - PyTorch를 활용하여 한국어 텍스트의 형태소 분석 및 자연어 처리를 수행하는 지능형 시스템을 개발했습니다.  
+        Developed an intelligent system for Korean morphological analysis and natural language processing using PyTorch.
+    - **딥러닝 모델 구축**: LSTM, Transformer 기반 신경망을 사용하여 형태소 분리, 품사 태깅, 개체명 인식을 수행합니다.  
+        **Deep Learning Model Construction**: Performs morpheme segmentation, POS tagging, and named entity recognition using LSTM and Transformer-based neural networks.
+    - **대용량 데이터 처리**: 세종말뭉치, 국립국어원 말뭉치 등 대규모 한국어 데이터셋을 활용한 모델 학습 및 최적화를 진행했습니다.  
+        **Large-scale Data Processing**: Conducted model training and optimization using large Korean datasets such as Sejong Corpus and National Institute of Korean Language corpus.
+    - **주요 기능**: 
+        - 형태소 분석 정확도 97.8% 달성
+        - 실시간 텍스트 처리 (1초당 10,000 문장 처리)
+        - 사용자 정의 사전 관리 및 도메인 특화 학습
+        - RESTful API 서비스 제공  
+        **Key Features**: 
+        - Achieved 97.8% morphological analysis accuracy
+        - Real-time text processing (10,000 sentences per second)
+        - Custom dictionary management and domain-specific learning
+        - RESTful API service provision
+    - **기술적 혁신**:
+        - Attention Mechanism을 활용한 문맥 기반 형태소 분석
+        - Transfer Learning을 통한 도메인 적응 학습
+        - CUDA 기반 GPU 가속화로 처리 속도 10배 향상
+        - 모델 경량화로 모바일 환경 배포 지원  
+        **Technical Innovation**:
+        - Context-based morphological analysis using Attention Mechanism
+        - Domain adaptation learning through Transfer Learning
+        - 10x speed improvement with CUDA-based GPU acceleration
+        - Mobile deployment support through model compression
+    - **역할**: AI 모델 설계 및 구현, 데이터 전처리 파이프라인 구축, 모델 성능 최적화, API 서버 개발  
+        **Role**: AI model design and implementation, data preprocessing pipeline construction, model performance optimization, API server development
+    - **기술 스택**: PyTorch, Transformers, CUDA, FastAPI, Docker, Elasticsearch, MongoDB
+    - **주요 성과**: 
+        - 기존 오픈소스 대비 15% 정확도 향상
+        - 처리 속도 5배 개선
+        - 메모리 사용량 40% 절감
+        - 3개 기업에 상용 라이선스 제공
+
 ---
 
 ### Projects and Achievements
@@ -181,6 +217,19 @@ I believe in the importance of staying curious and exploring new technologies to
   - Integrated machine learning models for predictive analytics
   - Built using Python and TensorFlow
   - Improved decision-making accuracy by 60%
+
+#### AI/ML Projects
+- **Korean NLP Morphological Analyzer**
+  - Built deep learning models using PyTorch for Korean text analysis
+  - Implemented BERT-based transformer models for morpheme segmentation
+  - Achieved 97.8% accuracy in Korean POS tagging
+  - Deployed as microservice with FastAPI and Docker
+
+- **Intelligent Text Processing Pipeline**
+  - Developed end-to-end NLP pipeline for Korean language processing
+  - Integrated custom tokenization, named entity recognition, and sentiment analysis
+  - Processed 1M+ documents with real-time inference capabilities
+  - Reduced manual text processing time by 85%
 
 ---
 
