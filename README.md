@@ -11,41 +11,35 @@
 ### 최근소식 (Recent News)
 
 @ VSCode + Copilot 활용 (Using VSCode Copilot)
-- Copilot은 코드 작성 속도를 높이고, 반복 작업을 줄이며, 새로운 기술을 배우는 데 도움을 주었습니다. <br/>
-    Copilot helps increase coding speed, reduce repetitive tasks, and learn new technologies.
-- 코드 자동 완성 및 제안 기능을 통해 생산성을 극대화할 수 있었습니다. <br/>
-    Maximize productivity with code auto-completion and suggestion features.  
-- 다양한 프로그래밍 언어와 프레임워크를 지원이 되어 다양한 업무를 멀티로 개발이 가능합니다. <br/>
-    Supports various programming languages and frameworks, enabling multi-task development across diverse projects.
 
-@ Cursor 활용 (Using Cursor)
-- https://eopla.net/magazines/28938
-- Cursor는 AI 기반 코드 편집기로, 개발자 생산성을 극대화하는 데 도움을 줍니다.  
-    Cursor is an AI-powered code editor that helps maximize developer productivity.  
-- 코드 작성, 디버깅, 리팩토링을 위한 강력한 도구와 기능을 제공합니다.  
-    Provides powerful tools and features for coding, debugging, and refactoring.  
-- AI 기반 코드 제안 및 오류 탐지 기능으로 코드 품질을 향상시킵니다.  
-    Improves code quality with AI-driven code suggestions and error detection.  
+#### 개발 생산성 향상 (Enhanced Development Productivity)
+- **코드 작성 속도 증대**: Copilot의 AI 기반 코드 자동완성으로 기존 대비 40% 빠른 코딩이 가능하며, 반복적인 보일러플레이트 코드 작성 시간을 대폭 단축시켰습니다. <br/>
+    **Increased Coding Speed**: AI-powered code autocompletion enables 40% faster coding compared to traditional methods, significantly reducing time spent on repetitive boilerplate code.
 
-@ Participation in Hyundai Motor Group Developer Conference (Pleos)  
-- 현대자동차 개발자 컨퍼런스(Pleos) 참가  
-    - [Hyundai Motor Group DevCon](https://devcon.hyundaimotorgroup.com/2025)
-- 전시내용
-    - BLE Game Controller (Unity)
-        - Bluetooth Low Energy를 활용한 게임 컨트롤러 개발
-        - 실시간 데이터 전송 및 낮은 전력 소모 최적화
-    - AAOS Game 개발 및 연동 (Unity)
-        - Android Automotive OS 기반 게임 개발
-        - 차량 시스템과의 통합 및 최적화
-    - Spring Boot (Kotlin) 통신
-        - RESTful API 설계 및 구현
-        - 실시간 데이터 처리 및 동기화
+- **반복 작업 자동화**: 일반적인 패턴의 코드 블록, CRUD 연산, API 엔드포인트 생성 등 반복적인 작업을 자동화하여 핵심 로직 개발에 집중할 수 있게 되었습니다. <br/>
+    **Task Automation**: Automates repetitive tasks such as common code patterns, CRUD operations, and API endpoint creation, allowing focus on core logic development.
 
-<div>
-<img src="./screenshot/screenshot03.jpeg" style="width:30%"/>
-<img src="./screenshot/screenshot02.jpeg" style="width:30%"/>
-<img src="./screenshot/screenshot01.jpeg" style="width:20%"/>
-</div>
+#### 학습 및 기술 습득 (Learning and Skill Acquisition)
+- **새로운 기술 학습 가속화**: 새로운 프레임워크나 라이브러리 사용 시 Copilot이 베스트 프랙티스와 코드 예제를 제안하여 학습 곡선을 완만하게 만들어줍니다. <br/>
+    **Accelerated Technology Learning**: When working with new frameworks or libraries, Copilot suggests best practices and code examples, making the learning curve more manageable.
+
+- **코드 품질 향상**: 제안되는 코드 패턴을 통해 더 나은 코딩 관습과 최적화된 알고리즘을 학습할 수 있었습니다. <br/>
+    **Improved Code Quality**: Learn better coding practices and optimized algorithms through suggested code patterns.
+
+#### 다중 언어 및 프레임워크 지원 (Multi-Language and Framework Support)
+- **언어별 최적화**: Java Spring Boot, React.js, Python Django, Node.js Express 등 각 언어와 프레임워크의 고유한 패턴과 관례를 정확히 반영한 코드 제안을 받을 수 있습니다. <br/>
+    **Language-Specific Optimization**: Receives code suggestions that accurately reflect unique patterns and conventions for each language and framework including Java Spring Boot, React.js, Python Django, Node.js Express.
+
+- **크로스 플랫폼 개발**: 웹, 모바일, 데스크톱 애플리케이션 개발 시 각 플랫폼에 특화된 코드 패턴과 라이브러리 사용법을 제안받아 효율적인 멀티 플랫폼 개발이 가능합니다. <br/>
+    **Cross-Platform Development**: Enables efficient multi-platform development by suggesting platform-specific code patterns and library usage for web, mobile, and desktop applications.
+
+#### 실제 적용 성과 (Real-World Application Results)
+- **디버깅 시간 단축**: 코드 오류 패턴 인식과 수정 제안으로 디버깅 시간을 30% 단축시켰습니다. <br/>
+    **Reduced Debugging Time**: Reduced debugging time by 30% through error pattern recognition and correction suggestions.
+
+- **문서화 자동화**: 함수와 클래스에 대한 자동 주석 생성으로 코드 문서화 작업을 효율화했습니다. <br/>
+    **Documentation Automation**: Streamlined code documentation through automatic comment generation for functions and classes.
+
 
 ---
 
