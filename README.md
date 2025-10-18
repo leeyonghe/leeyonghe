@@ -1,8 +1,8 @@
 # 👋 Hi~~! I'm David Lee.
 
 - Blog
-  AI : https://leeyonghe.github.io/ai-blog
-  Infra : https://leeyonghe.github.io/infra-blog
+   * AI : https://leeyonghe.github.io/ai-blog
+   * Infra : https://leeyonghe.github.io/infra-blog
 - [최근소식 (Recent News)](#최근소식-recent-news)
 - [소개 (About Me)](#소개-about-me)
 - [주요 플랫폼 개발 소개 (Platform Development Overview)](#주요-플랫폼-개발-소개-platform-development-overview)
