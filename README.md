@@ -3,6 +3,7 @@
 - Blog
    * AI : https://leeyonghe.github.io/ai-blog
    * Infra : https://leeyonghe.github.io/infra-blog
+   * Network : https://leeyonghe.github.io/network-blog
    * English : https://leeyonghe.github.io/eng-blog
 - [최근소식 (Recent News)](#최근소식-recent-news)
 - [소개 (About Me)](#소개-about-me)
