@@ -2,6 +2,7 @@
 
 - Blog
    * AI : https://leeyonghe.github.io/ai-blog
+   * Quant : https://leeyonghe.github.io/quant-blog
    * Infra : https://leeyonghe.github.io/infra-blog
    * Network : https://leeyonghe.github.io/network-blog
    * English : https://leeyonghe.github.io/eng-blog
